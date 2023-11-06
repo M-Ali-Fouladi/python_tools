@@ -1,0 +1,5 @@
+
+first remove the all database files
+-----------------------------
+python manage.py makemigrations <appname>
+python manage.py migrate

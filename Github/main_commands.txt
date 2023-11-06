@@ -1,0 +1,5 @@
+0-go to the directory you want to clone
+1-RUN cli of repository and run it in bash window
+2-git add . --> or copy files to that folder
+3-git commit -m "all files"
+4-git push -u origin main
